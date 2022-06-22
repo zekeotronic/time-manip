@@ -1,8 +1,8 @@
 {
-  "name": "time-manip.js",
+  "name": "time-manip",
   "version": "1.0.0",
   "description": "Converts time between seconds, minutes, hours, days and weeks",
-  "main": "time-manip.js",
+  "main": "index.js",
   "directories": {
     "test": "test"
   },
