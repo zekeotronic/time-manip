@@ -1,89 +1,89 @@
-## time-manip.js Time manipulator
+# time-manip.js Time manipulator
 
----
+<!-- --- -->
 
 Convert units of time between seconds, minutes, hours, days and weeks.
 
-> secondsToMinutes(seconds)
+> ## secondsToMinutes(seconds)
 
 Converts seconds to minutes
 
-> secondsToHours(seconds)
+> ## secondsToHours(seconds)
 
 Converts seconds to hours
 
-> secondsToDays(seconds)
+> ## secondsToDays(seconds)
 
 Converts seconds to days
 
-> secondsToWeeks(seconds)
+> ## secondsToWeeks(seconds)
 
 Converts seconds to weeks
 
-> minutesToSeconds(minutes)
+> ## minutesToSeconds(minutes)
 
 Converts minutes to seconds
 
-> minutesToHours(minutes)
+> ## minutesToHours(minutes)
 
 Converts minutes to hours
 
-> minutesToDays(minutes)
+> ## minutesToDays(minutes)
 
 Converts minutes to days
 
-> minutesToWeeks(minutes)
+> ## minutesToWeeks(minutes)
 
 Converts minutes to weeks
 
-> hoursToSeconds(hours)
+> ## hoursToSeconds(hours)
 
 Converts hours to seconds
 
-> hoursToMinutes(hours)
+> ## hoursToMinutes(hours)
 
 Converts hours to minutes
 
-> hoursToDays(hours)
+> ## hoursToDays(hours)
 
 Converts hours to days
 
-> hoursToWeeks(hours)
+> ## hoursToWeeks(hours)
 
 Converts hours to weeks
 
-> daysToSeconds(days)
+> ## daysToSeconds(days)
 
 Converts days to seconds
 
-> daysToMinutes(days)
+> ## daysToMinutes(days)
 
 Converts days to minutes
 
-> daysToHours(days)
+> ## daysToHours(days)
 
 Converts days to hours
 
-> daysToWeeks(days)
+> ## daysToWeeks(days)
 
 Converts days to weeks
 
-> weeksToSeconds(weeks)
+> ## weeksToSeconds(weeks)
 
 Converts weeks to seconds
 
-> weeksToMinutes(weeks)
+> ## weeksToMinutes(weeks)
 
 Converts weeks to minutes
 
-> weeksToHours(weeks)
+> ## weeksToHours(weeks)
 
 Converts weeks to hours
 
-> weeksToDays(weeks)
+> ## weeksToDays(weeks)
 
 Converts weeks to days
 
-> tallyReadable(seconds)
+> ## tallyReadable(seconds)
 
 Returns total time in string format
